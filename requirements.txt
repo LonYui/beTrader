@@ -1,0 +1,6 @@
+websocket-client
+requests
+sortedcontainers == 0.8.1
+dydx-v3-python
+web3
+pandas
